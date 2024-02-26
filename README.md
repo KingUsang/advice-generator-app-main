@@ -27,8 +27,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Here is a link to my solution](https://github.com/KingUsang/advice-generator-app-main)
-- Live Site URL: [Here is a live preview](https://kingusang.github.io/advice-generator-app/)
-
+- Live Site URL: [Here is a live preview](https://kingusang.github.io/advice-generator-app-main/)
+zsh:1: command not found: wq
 ## My process
 
 ### Built with
